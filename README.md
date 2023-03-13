@@ -10,7 +10,6 @@ Table of Contents
   * [Method](#method)
   * [Part 1: Scrape Titles and Preview Text from Mars News](#part-1-scrape-titles-and-preview-text-from-mars-news)
   * [Part 2: Scrape and Analyze Mars Weather Data](#part-2-scrape-and-analyze-mars-weather)
-  * [Summary](#summary)
   * [References](#references)
   
   
