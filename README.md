@@ -90,13 +90,6 @@ In Jupyter Notebook scrape and analyze Mars weather data and complete the follow
 
 
 
-## Summary
-
-
-Overall, web scraping automates the tasks of extracting online data for analysis, ultimately making our analysis easier and faster.
-
-
-
 ## References
 
 
